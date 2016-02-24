@@ -5,5 +5,31 @@ You need to start a repository before you can start commiting.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+
 The staging area is used before you want to create a commit. Instead of commiting everything to a commit you can choose what you have modified.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Using staging area lets you organize what you are going to commit before commititng which will make sure you make commits after all your modifications
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Adding languages or new features you want test before adding to your program 
+
+
+How do the diagrams help you visualize the branch structure?
+
+Using a diagram will help you visualize and organize your branches and make sure you dont mess up your commits.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging to branches makes you more efficient.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros Makes it easier to merge them quickly
+Cons Time consuming at first
