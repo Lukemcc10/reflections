@@ -1,0 +1,35 @@
+To create a new text file use - >
+To create a new directory use - newdir
+To view  file in terminal use - cat
+
+
+*How did viewing a diff between two versions of a file help you see the bug that was introduced?*
+
+Using diff in the terminal did the work for us. Instead of manually looking threw the files ourselves and looking for differences the "diff" command found the differences for us and presented them on the screen.
+
+*How could having easy access to the entire history of a file make you a more efficient programmer in the long term?*
+
+This will help when your programming because you can look back at old versions and see whats working and not working. As well with version control you can see all the changes that have been made to help solve problems.
+
+*What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?*
+
+Having automatically commits would make too many commits and maybe some would be irrelavant and might also make things more confusing.
+
+Choosing your own commits makes more sense because sometimes your being productive and sometimes your not. You must just remember to save your work when you can because you dont want to loose your work and you must remember to save after fixing bugs because you dont want to be caught doing more work than you need to.
+
+*Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?*
+
+Because GIT was designed for programmers to use as Google Docs,Wiki and others were designed to help students and proffesionals access their documents more easily.
+
+*How can you use the commands git log and git diff to view the history of files?*
+
+using git log you can find the commit ID, once you compare them you can see each change that has been made to the code.This would be extremely useful in alot of cases.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Theres no problem in breaking the code as long as your commiting properly and see the problem before going to deep into code.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Use git to review files that i have created within my software.
